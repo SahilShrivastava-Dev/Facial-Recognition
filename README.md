@@ -1,13 +1,9 @@
 # Face Recogniton GUI-APP
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw)
 
 # Live Demo
-```html
-https://www.youtube.com/embed/3EBdT-0gvu8
 
-```
 
 
 # A very Simple Gui app for Face Detection 
@@ -65,7 +61,7 @@ A webcam window will popup and start recognition proccess<br>
 
 <br><br>
 
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
+Made By ❤ : [Sahil Shrivastava](mailto:sahilshrivastava28@gmail.com)<br>
 **Free Software, Hell Yeah!**
 
 
